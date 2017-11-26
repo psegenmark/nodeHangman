@@ -1,0 +1,15 @@
+{
+  "name": "hangmannodegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "requirer": "0.0.4"
+  }
+}
