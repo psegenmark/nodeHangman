@@ -1,6 +1,7 @@
 var inquirer = require("inquirer");
 var wordsAvailable = require("./word.js");
 
+
 var randomWord = wordsAvailable[Math.floor(Math.random() * 11) + 1];
 
 function Word(word, length) {
